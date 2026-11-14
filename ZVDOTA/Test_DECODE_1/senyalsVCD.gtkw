@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.128 (w)1999-2026 BSI
+[*] Wed Nov 11 18:17:15 2026
+[*]
+[dumpfile] "/home/darkgarcilaso/BSC/sargantana_tile/dump.vcd"
+[dumpfile_mtime] "Wed Nov 11 18:01:20 2026"
+[dumpfile_size] 7692348
+[savefile] "/home/darkgarcilaso/BSC/TestsZVDOTA/Test1/senyalsVCD.gtkw"
+[timestart] 733
+[size] 1197 980
+[pos] -1 -1
+*-4.200000 749 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.sim_top.
+[treeopen] TOP.sim_top.DUT.
+[treeopen] TOP.sim_top.DUT.subtile_inst.
+[treeopen] TOP.sim_top.DUT.subtile_inst.sargantana_inst.
+[treeopen] TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.
+[treeopen] TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.
+[treeopen] TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vset_module_inst.
+[treeopen] TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vset_module_inst.vset_queue_inst.
+[sst_width] 270
+[signals_width] 254
+[sst_expanded] 1
+[sst_vpaned_height] 285
+@28
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vset_module_inst.vset_queue_inst.clk_i
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vl_0
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vill
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.altfmt
+@23
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vtype_int[11:0]
+@28
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.xcpt_illegal_instruction_int
+@22
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vset_module_inst.vtype_d[63:0]
+@28
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vset_module_inst.altfmt_o
+@22
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.id_decode_inst.vset_module_inst.prev_vtype_o[9:0]
+TOP.sim_top.DUT.subtile_inst.sargantana_inst.datapath_inst.prev_vtype_int[9:0]
+[pattern_trace] 1
+[pattern_trace] 0
