@@ -1,0 +1,5 @@
+En GTKWave el test1 empieza en 11761ps
+Para encontrar donde empizan las instrucciones en Konata:
+	Añadir nueva señal en GTKWave con el PC (datapath-pc_id)
+	Buscar el PC en Konata
+Importante, el benchmark donde ejecuto mis tests gestiona las excepciones por su cuenta, para "ignorarlo" hay que crear un exception handler custom.
